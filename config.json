@@ -1,0 +1,4 @@
+{
+  "api_url": "https://fakerapi.it/api/v1/custom?_quantity=10&title=word&duration=number&level=word",
+  "output_format": "json"
+}
